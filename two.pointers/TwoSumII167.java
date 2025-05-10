@@ -1,5 +1,4 @@
-package arrays.hashing;
-
+package two.pointers;
 /**
 
 167. Two Sum II - Input Array Is Sorted
