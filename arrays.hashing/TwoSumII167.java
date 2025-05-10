@@ -44,7 +44,7 @@ The tests are generated such that there is exactly one solution.
 
  */
 
-public class TwoSumII {
+public class TwoSumII167 {
     
     public int[] twoSum(int[] numbers, int target) {
         int left = 0; 
